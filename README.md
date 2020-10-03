@@ -1,5 +1,5 @@
-### Hi there <img alt='Hi' width="28" src="https://github.com/RauPro/RauPro/blob/master/hi.gif">
-<img align="right" width="300" height="400" src="https://github.com/RauPro/RauPro/blob/master/coding_from_home.gif">
+### Hi there <img alt='Hi' width="28" src="https://github.com/RauPro/RauPro/hi.gif">
+<img align="right" width="300" height="400" src="https://github.com/RauPro/RauPro/coding_from_home.gif">
 
 
 <br/>
