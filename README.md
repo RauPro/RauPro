@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning:  &nbsp; <a href="https://angular.io/"><img width="28" src="https://angular.io/assets/images/logos/angular/angular.svg"> </a> &nbsp; <a href="https://brm.io/matter-js/"> <img width="100px" src="https://brm.io/matter-js/img/matter-js.svg"> </a>
 - 📫 How to reach me: 0001219@uca.edu.sv / rguillen@ieee.org 
 - 👯 I’m looking to collaborate on: JS apps <img width="22px" src="https://img.icons8.com/dusk/344/javascript.png"> 
+- 💬 Talk to me about: Programming, i love it :D
 
 <br />
 
