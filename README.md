@@ -4,16 +4,16 @@
 
 <br/>
 <a href="https://twitter.com/RaulGuillen17">
-  <img align="left" alt="RauPro | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" />
+  <img align="left" alt="RauPro | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 <a href="https://www.linkedin.com/in/raul-ernesto-guillen-hernandez-26b69716b/">
-  <img align="left" alt="RauPro's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="RauPro's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.facebook.com/TheKiira17Op/">
-  <img align="left" alt="RauPro's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="RauPro's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />
 </a>
 <a href="https://www.instagram.com/rausikes/">
-  <img align="left" alt="RauPro's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="RauPro's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 <br/> <br/>
 
