@@ -1,72 +1,38 @@
 ### Hi there, I'm Raúl Guillén 👋
-<img alt='Hi' width="28" src="https://github.com/RauPro/RauPro/blob/main/hi.gif">
 
-I am a Data Scientist and AI Engineer currently pursuing my **M.Sc. in Data Science at Harbour.Space Institute of Technology**. My passion lies in leveraging AI and machine learning to solve complex problems, with a special interest in Generative AI, Natural Language Processing for Social Good, and Algorithmic Trading Strategies.
+I am the Founder & Lead Engineer of **Converza AI**, architecting Spanish-first, production-grade AI agent workspaces for heavy enterprise industries (AEC). My expertise lies at the intersection of high-performance distributed backends, custom multi-agent routing systems, and advanced hybrid retrieval infrastructure.
 
-My background includes over four years of professional software engineering, where I delivered high-impact solutions for clients like **Bain & Company** and the **Golden State Warriors**. I am now focused on applying my skills in a data-centric role.
+With a deep background in competitive programming (ICPC Finalist) and extensive software engineering experience delivering generative AI frameworks for firms like **Bain & Company**, I focus on building resilient, deterministic LLM systems that run at scale.
 
-<img align="right" width="300" height="400" src="https://github.com/RauPro/RauPro/blob/main/coding_from_home.gif">
+[Converza AI](https://converzai.tech) • [LinkedIn](https://linkedin.com/in/raupro) • [Email](mailto:raul.guillen.eng@proton.me)
 
+---
 
-<br/>
-<a href="https://twitter.com/RaulGuillen17">
-  <img align="left" alt="RauPro | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
-<a href="https://www.linkedin.com/in/raul-ernesto-guillen-hernandez-26b69716b/">
-  <img align="left" alt="RauPro's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://www.facebook.com/TheKiira17Op/">
-  <img align="left" alt="RauPro's Facebook" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" />
-</a>
-<a href="https://www.instagram.com/rausikes/">
-  <img align="left" alt="RauPro's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-<br/> <br/>
+### 🛠️ Core Stack & Focus Areas
 
------
+* **Agentic Frameworks & Routing:** Production Pydantic AI systems, multi-agent orchestrations, tool/function calling logic.
+* **Data & Vector Infrastructure:** Hybrid Postgres RAG (pgvector + full-text), RRF fusion, Cohere reranking, multi-format parsing pipelines.
+* **Backend & Systems:** Asynchronous Python (FastAPI, Asyncio, Pydantic), C++, WebSockets/SSE streaming, distributed systems.
+* **MLOps & Observability:** Enterprise logging and tracing via Logfire, Sentry, PostHog, hyperparameter optimization.
 
-  * 🔭 I'm currently pursuing my **MSc. in Data Science** and a thesis focused on Generative AI.
-  * 🤖 My core technical skills include: **Python**, **TensorFlow**, **PyTorch**, **AWS (SageMaker, S3)**, **GCP**, **Docker** and **Mlops**.
-  * 👯 I’m looking to collaborate on open-source **AI/ML projects**, **MLOps implementation**, or tools in the **FinTech/Blockchain** space.
-  * 💬 Talk to me about **Deep Learning**, **System Design**, **LLMs**, and **Algorithmic Trading**.
+---
 
------
+### 🚀 Key Architectures
 
-### 🚀 Featured Projects
+#### 🌌 Converza AI — Core Engine & Agent Workspace
+* **Architecture:** Enterprise-grade monorepo combining a high-concurrency FastAPI streaming backend with a Next.js 14 App Router UI.
+* **Core Mechanisms:** Engineered a production Pydantic AI agent loop that dynamically calls system-level tools (`search_kb`, `read_kb_pdf`, `edit_document`) based on explicit, structured input validation.
+* **Retrieval Pipeline:** Implemented an state-of-the-art hybrid search index in pgvector utilizing full-text keyword fusion, Cohere rerank API calls, and vision-based PyMuPDF rasterization to embed scanned blueprints and graphical drawing layouts.
+* **Stack:** FastAPI, Pydantic AI, Supabase/Postgres, pgvector, LiteLLM, Tiptap, Logfire.
 
-<table>
-<tr>
-<td width="50%">
+#### ⛓️ Async MEV Sandbox Bot
+* **Architecture:** High-throughput, asynchronous blockchain monitoring tool designed to capture real-time market discrepancies.
+* **Core Mechanisms:** Utilizes `asyncio` loops and `web3.py` to stream the Sepolia testnet mempool, predicting real-time transaction profitability and programmatic liquidity interactions.
+* **Stack:** Python, Web3, Asyncio, Uniswap V2, QuickNode.
 
-### LevelUp: AI-Powered Technical Interview Platform
+---
 
-**Description:** An AI platform that generates unique programming problems for interviews. It uses a RAG model to assess problem-solving skills, not memorization, saving time and ensuring fairness.
-
-**Stack:** Python, LangChain, LangGraph, MLflow, Sentence-Transformers, PostgreSQL, ChromaDB, FastAPI.
-
-**[LevelUp](https://github.com/RauPro/LevelUp/tree/main)**
-
-</td>
-
-<td width="50%">
-
-### MEV Bot on Blockchain
-
-**Description:** A Python-based MEV bot that performs sandwich attacks on Uniswap V2. [cite\_start]It monitors the Sepolia mempool, simulates profitability, and executes trades using asyncio and web3.py[cite: 31, 32].
-
-**Stack:** Python, Uniswap V2, Blockchain, QuickNode, web3.
-
-**[MEV Bot](https://github.com/RauPro/MEV-Bot-Sandwich-Strategy)**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📊 My GitHub Stats
+### 📊 System Activity
 
 [![RauPro's github stats](https://github-readme-stats.vercel.app/api?username=RauPro&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RauPro&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
