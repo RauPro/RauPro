@@ -1,6 +1,6 @@
 ### Hi there, I'm Raúl Guillén 👋
 
-I am the Founder & Lead Engineer of **Converza AI**, architecting Spanish-first, production-grade AI agent workspaces for heavy enterprise industries (AEC). My expertise lies at the intersection of high-performance distributed backends, custom multi-agent routing systems, and advanced hybrid retrieval infrastructure.
+I am the Founder & Lead Engineer of **Converza AI**, architecting the first ConTech and Spanish-first, production-grade AI agent workspaces for heavy enterprise industries (AEC). My expertise lies at the intersection of high-performance distributed backends, custom multi-agent routing systems, and advanced hybrid retrieval infrastructure.
 
 With a deep background in competitive programming (ICPC Finalist) and extensive software engineering experience delivering generative AI frameworks for firms like **Bain & Company**, I focus on building resilient, deterministic LLM systems that run at scale.
 
